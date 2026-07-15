@@ -1,3 +1,5 @@
+🌐 语言: [English](README.md) | [中文](README.zh-CN.md)
+
 你好，我是 Ethan Huang 👋
 
 一名拥有 10 年经验的前端工程师，专注于构建 Web 应用。
