@@ -1,4 +1,4 @@
-🌐 Language: [English](README.md) | [中文](README.zh_CN.md)
+🌐 Language: [English](README.md) | [中文](README.zh-CN.md)
 
 Hi, I’m Ethan Huang 👋
 
