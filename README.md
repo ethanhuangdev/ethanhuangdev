@@ -1,3 +1,5 @@
+🌐 Language: [English](README.md) | [中文](README.zh_CN.md)
+
 Hi, I’m Ethan Huang 👋
 
 Frontend Engineer with 10 years of experience building web applications.
